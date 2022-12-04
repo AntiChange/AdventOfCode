@@ -8,7 +8,7 @@ def parse(filename):
     return inputlines
 
 def solution(input):
-    print("")
+    return ""
 
 
 print(solution(parse("FILENAME")))
