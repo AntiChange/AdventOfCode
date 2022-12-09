@@ -123,8 +123,6 @@ def solution(input):
 
             maxScenic = max(curScore, maxScenic)
 
-
     return maxScenic
-
 
 print(solution(parse("input.txt")))
